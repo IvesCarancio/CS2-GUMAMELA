@@ -15,12 +15,12 @@ This code helps with finding the distance between two points in a two-dimensiona
 
 - Check the distance displayed on the screen.
 
-##Input needed:
+## Input needed:
 x1
 x2
 y1
 y2
-##Examples:
+## Examples:
 
 Enter point_x1. 8
 Enter point_x2. 9
