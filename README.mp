@@ -28,3 +28,6 @@ Enter y_1. 4
 Enter point y_2. 7
 Your distance is 3.1622776601683795
 
+## Author:
+Ives John D. Carancio
+
