@@ -1,2 +1,2 @@
 # CS2-GUMAMELA
-khub boi repository
+hello 🥶
