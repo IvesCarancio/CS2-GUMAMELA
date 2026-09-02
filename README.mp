@@ -1,19 +1,30 @@
 # CS2-GUMAMELA
 hello 🥶
-import math
 
-point_x1 = float(input("Please enter point_x1. "))
+## What does this code do?
 
-point_x2 = float(input( "Please enter point_x2. "))
+This code helps with finding the distance between two points in a two-dimensional plane.
 
-point_y1 = float(input("Please enter point y_1. " ))
+## How to run?
 
-point_y2 = float(input( "Please enter point_y2. "))
+- Open the program file in VS Code, Replit, or Google Colab.
 
-point_a = pow( point_x2 - point_x1, 2 )
+- Run the program.
 
-point_b = pow(point_y2 - point_y1, 2)
+- Enter the values for x1, y1, x2, and y2.
 
-distance = math.sqrt(point_a + point_b)
+- Check the distance displayed on the screen.
 
-print ("Your distance is", distance)
+##Input needed:
+x1
+x2
+y1
+y2
+##Examples:
+
+Enter point_x1. 8
+Enter point_x2. 9
+Enter y_1. 4
+Enter point y_2. 7
+Your distance is 3.1622776601683795
+
